@@ -15,7 +15,7 @@ export FLASK_APP=app.py
 export FLASK_ENV=development
 ```
 
-2. Navigate to the root project directory and ctivate the environment using the following command:
+2. Navigate to the root project directory and activate the environment using the following command:
 
 ```. venv/bin/activate```
 
