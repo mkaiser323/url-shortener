@@ -1,7 +1,7 @@
 # url-shortener
 
 started: 2/9/21 6:40 PM
-
+finished: 2/9/21 9:34 PM
 Setup instructions:
 
 set the following env variables:
